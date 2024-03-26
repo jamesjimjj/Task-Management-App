@@ -12,7 +12,7 @@
 ## Build and run project
 * Download into Visual Studio or clone and open into Visual Studio.
 * adjust json app settings to database of your choice.
-* update-database in console.
+* update-database in console to seed the initial data into tables.
 
 ## License
 * The Apache 2.0 license was chosen for open source contribution that maintains copyright and requires any copies or distribution to include same license
