@@ -1,6 +1,8 @@
 # Task-Management-App
 ## Assignment 3_Continuous_Integration
 
+### Capstone Project Team 2
+
 ## This is a task management app designed to provide users with a desktop application that allows them to manage shool, work, and personal tasks.
 * Register distinct user account which gives access to login page.
 * Create tasks under school, work, and personal categories.
