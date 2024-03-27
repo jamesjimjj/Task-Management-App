@@ -16,5 +16,5 @@
 * adjust json app settings to database of your choice.
 * update-database in console to seed the initial data into tables.
 
-## License
+## License Apache 2.0
 * The Apache 2.0 license was chosen for for its open source availability that maintains copyright and requires any copies or distribution from contibuting/collaberating developers to include same license and also tracks/acknowledges contributions and the contributors to the application project.
